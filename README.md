@@ -1,4 +1,4 @@
-RWD Website Template created with ReactJs and Bootstrap
+Responsive Website Template created with ReactJs and Bootstrap
 
 User Guide:
 1: Download/Clone repository
