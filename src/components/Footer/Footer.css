@@ -1,0 +1,31 @@
+.footer {
+    font-family: 'Dancing Script', cursive;
+}
+
+.social-media-section > a > i:hover {
+    color: #ab2b2b;
+}
+
+.products-section > p > a {
+    color: var(--bs-dark-rgb)
+}
+
+.products-section > p > a:hover {
+    color: #ab2b2b;
+}
+
+.useful-links-section > p > a {
+    color: var(--bs-dark-rgb)
+}
+
+.useful-links-section > p > a:hover {
+    color: #ab2b2b;
+}
+
+.copyright {
+    background-color: rgba(0, 0, 0, 0.05);
+}
+
+.copyright-name > span:hover {
+    color: #ab2b2b;
+}
